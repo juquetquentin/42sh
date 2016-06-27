@@ -1,0 +1,2 @@
+printf("\b") => recule le curseur à gauche;
+man console_codes
